@@ -6,7 +6,7 @@ parametrizados por tipo. Seus benefícios são:
   * Type safety
   * Performance
   
-• Uso comum: coleções
+* Uso comum: coleções
 
 **Problema exemplo:**
 
