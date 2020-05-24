@@ -17,3 +17,6 @@ exemplo. Em seguida, informar qual foi o primeiro valor informado.
 **Diagrama de classe**
 
 ![ClasseComGenerics](https://github.com/glauberfernandes/generics1-java/blob/master/ClasseComGenerics.PNG)
+
+
+***Fonte:** curso de Java Completo - prof. Nélio Alves(udemy)*
